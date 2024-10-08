@@ -3,7 +3,7 @@
 ## Description
 This project is a simple metric-to-imperial (and vice versa) unit converter, developed to practice my JavaScript (ES6+) skills after completing the Introduction to ES6 course on Scrimba. I also aimed to improve my front-end development skills. The application allows users to convert units of length, volume, and mass between the metric and imperial systems.
 
-The project showcases modern JavaScript techniques such as ES6 classes, arrow functions, and the use of `flatMap()` for data manipulation. It also features a responsive user interface with light and dark themes.
+The project showcases modern JavaScript techniques such as ES6 destructing arrays, "for of" loop, classes and arrow functions for data manipulation. It also features a responsive user interface with light and dark themes.
 
 ![App Screenshot](https://github.com/user-attachments/assets/fa35d618-0a8d-4b05-918c-ffd01990c020)
 
