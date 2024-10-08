@@ -5,7 +5,7 @@ This project is a simple metric to imperial (and vice versa) unit converter, dev
 
 The project showcases modern JavaScript techniques such as ES6 classes, arrow functions, and the use of `flatMap()` for data manipulation. It also features a responsive user interface with light and dark themes.
 
-![App Screenshot](path/to/screenshot.png)
+![App Screenshot](https://github.com/user-attachments/assets/fa35d618-0a8d-4b05-918c-ffd01990c020)
 
 ## Features
 - Convert between:
@@ -13,7 +13,6 @@ The project showcases modern JavaScript techniques such as ES6 classes, arrow fu
   - Liters and Gallons (Volume)
   - Kilograms and Pounds (Mass)
 - ES6+ JavaScript with clean and modular code
-- Light/Dark theme toggle
 - Simple, intuitive UI
 
 ## Technologies Used
