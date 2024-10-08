@@ -49,8 +49,8 @@ input:focus {
 
 button {
     cursor: pointer;
-    margin-top: 2%;
-    padding: 15px 30px 15px 30px;
+    margin-top: 1rem;
+    padding: 15px 40px 15px 40px;
     background-color: #ffffff;
     color: #3D3D3D;
     border: none;
@@ -102,6 +102,7 @@ button:hover {
 .outputContainer h3{
     margin-top: 1rem;
     font-size: 14px;
+    font-weight: 600;
 }
 
 .outputContainer p{
