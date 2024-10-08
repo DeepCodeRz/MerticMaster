@@ -30,3 +30,13 @@ The project showcases modern JavaScript techniques such as ES6 classes, arrow fu
     cd metric-imperial-conversion
     ```
 3. Open `index.html` in your browser to start using the app.
+
+## Future Improvements
+- Add more unit conversions (e.g., temperature, speed).
+- Implement a history of conversions.
+- Provide an option to switch between metric and imperial for all fields at once.
+- Making the app fully responsive.
+- Adding dark theme.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
