@@ -1,7 +1,7 @@
 # Metric/Imperial Unit Conversion
 
 ## Description
-This project is a simple metric to imperial (and vice versa) unit converter, developed to practice JavaScript (ES6+) and improve front-end development skills. The application allows you to convert units for length, volume, and mass between metric and imperial systems.
+This project is a simple metric-to-imperial (and vice versa) unit converter, developed to practice my JavaScript (ES6+) skills after completing the Introduction to ES6 course on Scrimba. I also aimed to improve my front-end development skills. The application allows users to convert units of length, volume, and mass between the metric and imperial systems.
 
 The project showcases modern JavaScript techniques such as ES6 classes, arrow functions, and the use of `flatMap()` for data manipulation. It also features a responsive user interface with light and dark themes.
 
@@ -30,21 +30,3 @@ The project showcases modern JavaScript techniques such as ES6 classes, arrow fu
     cd metric-imperial-conversion
     ```
 3. Open `index.html` in your browser to start using the app.
-
-## Code Highlights
-The main functionality is handled by the `Measure` class, which calculates the conversions:
-
-```javascript
-class Measure {
-    constructor(quantity) {
-        this.quantity = quantity;
-    }
-
-    calculateMulti(value = 0) {
-        return Math.round((this.quantity * value) * 1000) / 1000;
-    }
-
-    calculateDivide(value = 0) {
-        return Math.round((this.quantity / value) * 1000) / 1000;
-    }
-}
