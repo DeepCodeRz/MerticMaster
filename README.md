@@ -23,11 +23,11 @@ The project showcases modern JavaScript techniques such as ES6 destructing array
 ## Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/metric-imperial-conversion.git
+    git clone https://github.com/DeepCodeRz/MerticMaster.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd metric-imperial-conversion
+    cd MerticMaster
     ```
 3. Open `index.html` in your browser to start using the app.
 
